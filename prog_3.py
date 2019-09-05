@@ -4,8 +4,8 @@ class Student:
 		self.age = age
 		self.marks = marks
 
-s1 = Student("Amogh",20,[81,85,90])
-s2 = Student("Mulge",20,[90,95,96])
+s1 = Student("aaa",20,[81,85,90])
+s2 = Student("bbb",20,[90,95,96])
 
 def display(s):
 	print("Name is ",s.name)
