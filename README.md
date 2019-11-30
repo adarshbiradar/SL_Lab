@@ -57,3 +57,7 @@ Functions 2) Class
 ● Combining HTML & Javascript - Programs with Client side event handling scenarios
 
 ● Using Javascript - Loading JSON data dynamically on the client side.
+
+
+
+![Datascience](https://github.com/adarshbiradar/SL_Lab/blob/master/Screenshots/datascience.png?raw=true)
