@@ -59,5 +59,11 @@ Functions 2) Class
 ● Using Javascript - Loading JSON data dynamically on the client side.
 
 
-
+## Datascience
 ![Datascience](https://github.com/adarshbiradar/SL_Lab/blob/master/Screenshots/datascience.png?raw=true)
+
+## Flask
+![Flask](https://github.com/adarshbiradar/SL_Lab/blob/master/Screenshots/flask.png?raw=true)
+
+## JSON
+![HTML](https://github.com/adarshbiradar/SL_Lab/blob/master/Screenshots/js.png?raw=true)
