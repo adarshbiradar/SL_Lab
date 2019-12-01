@@ -63,7 +63,7 @@ Functions 2) Class
 ![Datascience](https://github.com/adarshbiradar/SL_Lab/blob/master/Screenshots/datascience.png?raw=true)
 
 ## Flask
-![Flask](https://github.com/adarshbiradar/SL_Lab/blob/master/Screenshots/flask.png?raw=true)
+![Flask](https://github.com/adarshbiradar/SL_Lab/blob/master/Screenshots/flask2.png?raw=true)
 
 ## JSON
 ![HTML](https://github.com/adarshbiradar/SL_Lab/blob/master/Screenshots/json2.png?raw=true)
