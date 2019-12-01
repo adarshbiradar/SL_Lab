@@ -66,4 +66,4 @@ Functions 2) Class
 ![Flask](https://github.com/adarshbiradar/SL_Lab/blob/master/Screenshots/flask.png?raw=true)
 
 ## JSON
-![HTML](https://github.com/adarshbiradar/SL_Lab/blob/master/Screenshots/js.png?raw=true)
+![HTML](https://github.com/adarshbiradar/SL_Lab/blob/master/Screenshots/json2.png?raw=true)
